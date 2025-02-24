@@ -24,3 +24,5 @@ The project delivered **high-performance and scalable analytical solutions**, si
 - **Cloud Readiness & Documentation:** The solution was designed following **cloud best practices**, making it adaptable for **Azure SQL and cloud-based BI tools** for future scalability. Detailed **documentation** ensures seamless integration with existing business workflows.  
 
 This project successfully implemented **innovative solutions**, resolving **scalability issues** and tuning SQL for optimal **performance** while enhancing analytical insights. By leveraging **Python, SQL, NumPy, and Seaborn**, it provided a **scalable, high-efficiency framework** for e-commerce business intelligence.
+![Captureq](https://github.com/user-attachments/assets/d66367f0-bd13-4f21-bc13-f24c4937516f)
+![Capture1](https://github.com/user-attachments/assets/621d14be-e1ca-4ddc-87bb-2172448e7292)
